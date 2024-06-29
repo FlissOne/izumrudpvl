@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+body {
+    font-family: Rubik , serif
+    
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.navbar{
+    background: #ffffff url(https://kartinki.pics/uploads/posts/2022-12/1669937201_1-kartinkin-net-p-abstraktnii-zelenii-fon-vkontakte-1.jpg) center center/cover no-repeat;
+}
+.nav-link {
+    color: greenyellow;
+}
+.navbar-nav a {
+    font-size: 30px;
+}
+.col-lg-4 img {
+    width: 450px;
+}
+.texti {
+    color: white;
+    margin-right: 50px;
+    padding-bottom: 250px;
+}
+.adres {
+    color: white;
+}
+.kach {
+    width: 150px;
+    margin-right: 450px;
+}
+.product {
+    width: 300px;
+}
+footer , .btn-outline-primary{
+    background: linear-gradient(270deg, #51ff00 10%, #017c08 99%);
+}
+.footer-text {
+    color: rgb(255, 255, 255);
+    margin: auto auto;
+}
